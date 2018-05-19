@@ -1,0 +1,17 @@
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe.config
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\bin\Debug\Ekzamen.pdb
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csprojResolveAssemblyReference.cache
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Form1.resources
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Properties.Resources.resources
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.GenerateResource.cache
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.CoreCompileInputs.cache
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.exe
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.pdb
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Main_Form.resources
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.CopyComplete
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Child.resources
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Create_File.resources
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Search.resources
+E:\proga_Visual\Windows_Form\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Form_Program.resources
